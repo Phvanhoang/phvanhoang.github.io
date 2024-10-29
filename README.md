@@ -7,8 +7,8 @@
 - **Email:** hoangpv6681@gmail.com
 - **Số điện thoại:** 0396295720
 - **Địa chỉ:** Hoà Xuân, Cẩm Lệ, Thành phố Đà Nẵng
-- **LinkedIn:** https://www.linkedin.com/in/hoang-pham-8432a5205
-- **GitHub:** https://github.com/Phvanhoang
+- **LinkedIn:** [Hoang Pham](https://www.linkedin.com/in/hoang-pham-8432a5205) 
+- **GitHub:** [Phvanhoang](https://github.com/Phvanhoang)
 
 ## Giới thiệu:
 Tôi là một Backend Developer với 3 năm kinh nghiệm trong phát triển phần mềm. Tôi có khả năng xây dựng và duy trì các hệ thống backend với khả năng mở rộng cao, sử dụng Ruby on Rails làm framework chính, kết hợp với các dịch vụ AWS và Docker để triển khai và quản lý hạ tầng. Tôi đã tham gia và hoàn thành 3 dự án thực tế thuộc các lĩnh vực khác nhau, từ tư vấn sức khỏe đến quản lý kho và fanpage nghệ sĩ, giúp tối ưu hóa quy trình nghiệp vụ và nâng cao trải nghiệm người dùng.
