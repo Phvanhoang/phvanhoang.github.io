@@ -15,8 +15,8 @@ Tôi là một Backend Developer với 3 năm kinh nghiệm trong phát triển 
 
 ## Kỹ năng chuyên môn:
 - **Ngôn ngữ lập trình:** Ruby, Ruby on Rails, Golang
-- **Cơ sở dữ liệu:** PostgreSQL, MySQL, DynamoDB
-- **Cloud & Hạ tầng:** AWS (EC2, S3, RDS, SES, Lambda), Docker
+- **Cơ sở dữ liệu:** PostgreSQL, MySQL, DynamoDB, Firebase
+- **Cloud & Hạ tầng:** AWS (EC2, S3, RDS, SES, Lambda), Docker, Terraform
 - **Quản lý phiên bản:** Git, GitHub
 - **CI/CD:** GitHub Actions
 - **Triển khai & Container hóa:** Docker, Docker Compose
@@ -53,8 +53,9 @@ Tôi là một Backend Developer với 3 năm kinh nghiệm trong phát triển 
 
 ### 3. Dự án quản lý kho
 - **Mô tả:** Xây dựng hệ thống quản lý kho cho doanh nghiệp với các chức năng quản lý hàng hóa, theo dõi nhập xuất kho và báo cáo tồn kho theo thời gian thực.
-- **Vai trò:** Backend Developer
+- **Vai trò:** Backend Developer & DevOps
 - **Công nghệ sử dụng:**
+  - **Terraform** để tự động hóa và quản lý hạ tầng AWS
   - Ruby on Rails để phát triển hệ thống quản lý
   - PostgreSQL để quản lý dữ liệu sản phẩm và tồn kho
   - AWS (EC2, RDS) để triển khai hệ thống
@@ -62,6 +63,7 @@ Tôi là một Backend Developer với 3 năm kinh nghiệm trong phát triển 
 - **Đóng góp:**
   - Phát triển module báo cáo tồn kho theo thời gian thực, giúp tối ưu hoá quá trình kiểm kê.
   - Xây dựng hệ thống quản lý hàng hóa với khả năng mở rộng, dễ dàng thêm mới và cập nhật sản phẩm.
+  - **Triển khai và quản lý hạ tầng AWS bằng Terraform**, đảm bảo môi trường triển khai tự động và nhất quán.
 
 ## Học vấn:
 - **Kỹ sư Công nghệ Thông tin** - Trường Đại họ học bách khoa khoa - Đại học Đà Nẵng, 2022
